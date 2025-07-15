@@ -1,0 +1,21 @@
+a=4
+p=a*4
+p
+s=a**2
+sd=8
+r=d/2
+r
+p=2*3.14*r
+pa= 6
+b=4
+c=(a+b)/2
+ca=4
+b=5
+y=a+b
+y
+k=a**2
+k
+l=b**2
+l
+s=a*b
+s
